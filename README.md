@@ -14,7 +14,7 @@ UrbanStyle juhtkond vajas sisendit eeloleva aasta turunduseelarve planeerimiseks
 * **Analüüs & visuaal:** Power BI kliendimudeli loomiseks ja tulemuste kuvamiseks.
 
 ## Projektivisuaal
-![UrbanStyle Dashboard](KPI_Dashboard.jpg)
+!['UrbanStyle Dashboard'](KPI_Dashboard.jpg)
 
 ## Kuidas käivitada
 1. Klooni repositoorium: `git clone <sinu-repo-link>`
