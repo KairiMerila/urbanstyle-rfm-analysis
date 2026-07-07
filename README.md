@@ -17,9 +17,12 @@ UrbanStyle juhtkond vajas sisendit eeloleva aasta turunduseelarve planeerimiseks
 !['UrbanStyle Dashboard'](KPI_Dashboard.jpg)
 
 ## Kuidas käivitada
-1. Klooni repositoorium: `git clone <sinu-repo-link>`
-2. Paigalda vajalikud teegid: `pip install -r requirements.txt`
-3. Jooksuta andmetorustik: `python main.py`  
+1. Klooni repositoorium oma arvutisse:
+   `git clone https://github.com/KairiMerila/urbanstyle-rfm-analysis.git`
+2. Paigalda vajalikud Pythoni teegid:
+   `pip install -r requirements.txt`
+3. Jooksuta skript:
+   `python main.py`  
    
 ## AI Kasutamine
 Kasutasin Claude'i SQL päringu veaparandusel ja README teksti viimistlemiseks. Analüütiline loogika ja ärijäreldused on minu omad.
