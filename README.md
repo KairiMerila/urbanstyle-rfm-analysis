@@ -13,5 +13,13 @@ UrbanStyle juhtkond vajas sisendit eeloleva aasta turunduseelarve planeerimiseks
 * **Andmete puhastamine:** Python (`pandas`) dublikaatide eemaldamiseks ja andmete korrastamiseks.
 * **Analüüs & visuaal:** Power BI kliendimudeli loomiseks ja tulemuste kuvamiseks.
 
+## Projektivisuaal
+![UrbanStyle Dashboard](images/dashboard.png)
+
+## Kuidas käivitada
+1. Klooni repositoorium: `git clone <sinu-repo-link>`
+2. Paigalda vajalikud teegid: `pip install -r requirements.txt`
+3. Jooksuta andmetorustik: `python main.py`  
+   
 ## AI Kasutamine
 Kasutasin Claude'i SQL päringu veaparandusel ja README teksti viimistlemiseks. Analüütiline loogika ja ärijäreldused on minu omad.
