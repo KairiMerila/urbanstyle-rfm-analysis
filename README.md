@@ -17,11 +17,15 @@ UrbanStyle juhtkond vajas sisendit eeloleva aasta turunduseelarve planeerimiseks
 !['UrbanStyle Dashboard'](KPI_Dashboard.jpg)
 
 ## Kuidas käivitada
+Käivita järgmised käsud oma arvuti käsureal (Terminal, Git Bash või Command Prompt):
+
 1. Klooni repositoorium oma arvutisse:
    `git clone https://github.com/KairiMerila/urbanstyle-rfm-analysis.git`
-2. Paigalda vajalikud Pythoni teegid:
+2. Liigu projekti kausta:
+   `cd urbanstyle-rfm-analysis`
+3. Paigalda vajalikud Pythoni teegid:
    `pip install -r requirements.txt`
-3. Jooksuta skript:
+4. Jooksuta skript:
    `python main.py`  
    
 ## AI Kasutamine
